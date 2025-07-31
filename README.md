@@ -12,14 +12,16 @@
 
 - **營收與淨利**
   - 符合高成長企業特徵，營收高速擴張，但仍處於虧損狀態。
-  - 淨利為負導致 ROE 過低，屬於典型早期階段。
+  - 淨利為負導致 ROE 過低，屬於典型早期階段。  
+
 
   <img width="817" height="504" alt="image" src="https://github.com/user-attachments/assets/d2176f9b-1c23-4e1d-b26a-c9d8b0f70cdb" />
 
 
 - **資產與負債**
   - 2024 年資產規模突破百億美元，但負債同步上升。
-  - 股東權益（Equity）快速成長，財務體質逐步改善。
+  - 股東權益（Equity）快速成長，財務體質逐步改善。  
+
  
   <img width="811" height="509" alt="image" src="https://github.com/user-attachments/assets/886b5414-09d8-4c94-a51a-5badcfde56e2" />
 
